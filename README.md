@@ -1,5 +1,5 @@
 
-## 👋 Hi, I'm Adolfo Morales (Fofock)
+## 👋 Hi, I'm Adolfo (Fofock)
 Unity + Go developer focused on **real-time multiplayer**, **backend systems**, and **observability**.  
 I build projects end-to-end: client gameplay (Unity) → networking/backend (Go) → data (Postgres/Redis) → monitoring (Prometheus/Grafana).
 - 📍 Mexico 
