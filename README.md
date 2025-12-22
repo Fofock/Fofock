@@ -64,16 +64,4 @@ I build projects end-to-end: client gameplay (Unity) → networking/backend (Go)
 ### Hardware / IoT
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-# 📊 GitHub Stats:
-<div align="center">
-
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=Fofock&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=true" />
-<br/>
-<img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=Fofock&theme=shadow_green&hide_border=false" />
-<br/>
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fofock&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-
-</div>
-
-[![](https://visitcount.itsvg.in/api?id=Fofock&icon=2&color=3)](https://visitcount.itsvg.in)
 
